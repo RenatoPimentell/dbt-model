@@ -1,6 +1,6 @@
 # dbt-model
 
-Repositório para armazenar os artefatos da modelagem para transformação dos dados utilizando o dbt integrado com Airbyte
+Repositório para armazenar os artefatos da modelagem para transformação dos dados utilizando o dbt integrado com Airbyte.
 
 Tarefas:
 
