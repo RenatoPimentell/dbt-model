@@ -7,7 +7,7 @@ Tarefas:
 Editar o arquivo project X
 Criar o arquivo profile X
 Criar os modelos base
-Criar o modelo relacionado
-Criar o schema
+Criar o modelo relacionado 
+Criar o schema 
 Testar execução
 Conferir a Transformação no Data Warehouse
